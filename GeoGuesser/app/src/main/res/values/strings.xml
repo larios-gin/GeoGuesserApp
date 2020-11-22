@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geo Guesser</string>
+    <string name="question_text">A ConstrainLayout is an example of a Layout</string>
+    <string name="progress_text">Question 1 of 10</string>
+    <string name="true_text">TRUE</string>
+    <string name="false_text">FALSE</string>
+    <string name="q1">A ConstraintLayout is a example of a Layout</string>
+    <string name="q2">An example of a view is a Button</string>
+    <string name="q3">There are two types of LinearLayout, match_parent and wrap_content</string>
+    <string name="q4">An activity is a single, focused thing that the user can do</string>
+    <string name="q5">The default orientation of a LinearLayout is horizontal</string>
+    <string name="q6">TextViews are used to show images</string>
+    <string name="q7">All the strings resources must be stored in strings.xml</string>
+    <string name="q8">MVC is an algorithm to solve a computational problem</string>
+    <string name="q9">The class R is used to find resources in you Java classes</string>
+    <string name="q10">Android programming is done in Swift programming language</string>
+    <string name="EXIT">EXIT</string>
+    <string name="RESTART">RESTART</string>
+</resources>
